@@ -1,0 +1,16 @@
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\obj\Debug\net5.0\04.csproj.AssemblyReference.cache
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\obj\Debug\net5.0\04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\obj\Debug\net5.0\04.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\obj\Debug\net5.0\04.AssemblyInfo.cs
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\obj\Debug\net5.0\04.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\bin\Debug\net5.0\04.exe
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\bin\Debug\net5.0\04.deps.json
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\bin\Debug\net5.0\04.runtimeconfig.json
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\bin\Debug\net5.0\04.runtimeconfig.dev.json
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\bin\Debug\net5.0\04.dll
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\bin\Debug\net5.0\ref\04.dll
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\bin\Debug\net5.0\04.pdb
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\obj\Debug\net5.0\04.dll
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\obj\Debug\net5.0\ref\04.dll
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\obj\Debug\net5.0\04.pdb
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\04\obj\Debug\net5.0\04.genruntimeconfig.cache

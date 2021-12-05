@@ -1,0 +1,16 @@
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\bin\Debug\net5.0\05.exe
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\bin\Debug\net5.0\05.deps.json
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\bin\Debug\net5.0\05.runtimeconfig.json
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\bin\Debug\net5.0\05.runtimeconfig.dev.json
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\bin\Debug\net5.0\05.dll
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\bin\Debug\net5.0\ref\05.dll
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\bin\Debug\net5.0\05.pdb
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\obj\Debug\net5.0\05.csproj.AssemblyReference.cache
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\obj\Debug\net5.0\05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\obj\Debug\net5.0\05.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\obj\Debug\net5.0\05.AssemblyInfo.cs
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\obj\Debug\net5.0\05.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\obj\Debug\net5.0\05.dll
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\obj\Debug\net5.0\ref\05.dll
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\obj\Debug\net5.0\05.pdb
+C:\Users\jonas\Desktop\Studium\Semester3\AdventOfCode\adventofcode2021\05\obj\Debug\net5.0\05.genruntimeconfig.cache
